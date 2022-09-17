@@ -28,6 +28,8 @@ Code v0.00.0
 
 - Add here
 
+## 4.1.1 - 2022-03-03
+
 ## [4.1.0](https://github.com/coder/code-server/releases/tag/v4.1.0) - 2022-03-03
 
 Code v1.63.0

@@ -18,7 +18,7 @@ export interface Event<T> {
  * Emitter typecasts for a single event type.
  */
 export class Emitter<T> {
-  private listeners: Array<Callback<T>> = []
+  private listeners: Array<Callback<T>> = [] 
 
   public get event(): Event<T> {
     return (cb: Callback<T>): Disposable => {
